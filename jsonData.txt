@@ -1,0 +1,17 @@
+[
+	{"name": "DJI Phantom 5",
+	"image": "12.jpg",
+	"shortD": "Training sessions ith the new DJI Phantom 5",
+        "longD": " DJI will be providing training sessions with their newest professional drone, the DJI Phantom 5. Limited times will be available for one-on-one sessions.",
+	"uid": "12" },
+	{"name": "Robot Demonstrations",
+	"image": "16.jpg",
+	"shortD": "An opportunity to interact with a humanoid robot designed for customer interaction.",
+        "longD": "  Meet Oscar, a llife-sized robot design to enable full human interaction in service environments. Oscar has a fully-integrated Large Language Model.",
+	"uid": "16" },
+	{"name": "The future of Robotics",
+	"image": "19.jpg",
+	"shortD": "Experts will discuss the future of modern robotics in a closed session.",
+        "longD": "Three of China's leading experts on modern robotics will be available to discuss the future of robotics in a small round table session. Limited places.",
+	"uid": "19" }
+]
